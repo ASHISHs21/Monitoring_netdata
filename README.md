@@ -63,6 +63,7 @@ Linux (tested on Ubuntu/Debian)
 Internet access to download Netdata
 Bash
 
+
 🧠 Learn More
 Netdata Documentation
 Netdata GitHub
